@@ -1,12 +1,10 @@
 # GenderClassificationAudio
 
-# Prepared by: 
-# Anwar Makhous  Ahmad Shahla
-
+Prepared by: 
+Anwar Makhous  Ahmad Shahla
+Supervised by:
+Dr. Majd Ali
 Prepared to obtain License in Computer and Automatic Control Engineering, Tishreen University 2020
-
-# Supervised by:
-# Dr. Majd Ali
 
 
 # Abstract:
