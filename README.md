@@ -30,3 +30,9 @@ also created our own data set. Then we also tested the network again to evaluate
 performance in different conditions and its ability to generalize. We determined the accuracy
 of the resulting test. Then we organized a table at the end of the fifth chapter to discuss the
 results, and at the end of our research, we suggested some future developments.
+
+# Training Dataset:
+http://www.openslr.org/resources/45/ST-AEDS-20180100_1-OS.tgz
+
+# Testing Dataset:
+https://www.kaggle.com/liftofff9/voice-gender
